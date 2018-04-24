@@ -40,3 +40,11 @@ Articles
 * http://firstround.com/review/power-up-your-team-with-nonviolent-communication-principles/
 * http://www.effectiveengineer.com/blog/secret-to-growing-software-engineering-career
 * http://www.dummies.com/business/human-resources/employee-engagement/ten-qualities-of-an-effective-team-player/
+
+Team Culture
+------------
+
+* [Developement culture at Ableton](https://www.youtube.com/watch?v=tILlZRLhBJE)
+* [RSA ANIMATE - Drive: the surprising truth about what motivates us](https://youtu.be/u6XAPnuFjJc)
+* [Spotify engineering culture - part 1](https://youtu.be/4GK1NDTWbkY)
+* [Spotify engineering culture - part 2](https://youtu.be/rzoyryY2STQ)
