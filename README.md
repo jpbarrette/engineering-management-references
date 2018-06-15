@@ -62,3 +62,11 @@ Interviewing
 ------------
 
 https://www.stackoverflowbusiness.com/blog/4-behavioral-question-mistakes-to-avoid-when-interviewing-developers
+
+Team Culture
+------------
+
+* [Developement culture at Ableton](https://www.youtube.com/watch?v=tILlZRLhBJE)
+* [RSA ANIMATE - Drive: the surprising truth about what motivates us](https://youtu.be/u6XAPnuFjJc)
+* [Spotify engineering culture - part 1](https://youtu.be/4GK1NDTWbkY)
+* [Spotify engineering culture - part 2](https://youtu.be/rzoyryY2STQ)
