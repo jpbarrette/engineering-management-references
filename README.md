@@ -26,6 +26,7 @@ Articles
 * [The Secret to Growing Your Engineering Career If You Don't Want to Manage](http://www.effectiveengineer.com/blog/secret-to-growing-software-engineering-career). *Put more details here on the interpretation of that article*
 * [Leveling up as a Junior Engineer](https://medium.com/masterpoint/leveling-up-as-a-junior-engineer-3f6880f8af1d)
 * https://www.fastcompany.com/40443084/this-is-why-your-best-developers-keep-quitting
+* [Know how your org works (or how to become a more effective engineer)](https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d)
 
 To Reevaluate
 =============
